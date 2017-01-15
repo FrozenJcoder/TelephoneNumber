@@ -1,0 +1,11 @@
+c:\users\giannis\documents\visual studio 2015\Projects\TelephoneNumber\TelephoneNumber\bin\Debug\TelephoneNumber.exe.config
+c:\users\giannis\documents\visual studio 2015\Projects\TelephoneNumber\TelephoneNumber\bin\Debug\TelephoneNumber.exe
+c:\users\giannis\documents\visual studio 2015\Projects\TelephoneNumber\TelephoneNumber\bin\Debug\TelephoneNumber.pdb
+c:\users\giannis\documents\visual studio 2015\Projects\TelephoneNumber\TelephoneNumber\bin\Debug\TelephoneNumber.xml
+c:\users\giannis\documents\visual studio 2015\Projects\TelephoneNumber\TelephoneNumber\obj\Debug\TelephoneNumber.vbprojResolveAssemblyReference.cache
+c:\users\giannis\documents\visual studio 2015\Projects\TelephoneNumber\TelephoneNumber\obj\Debug\TelephoneNumber.Form1.resources
+c:\users\giannis\documents\visual studio 2015\Projects\TelephoneNumber\TelephoneNumber\obj\Debug\TelephoneNumber.Resources.resources
+c:\users\giannis\documents\visual studio 2015\Projects\TelephoneNumber\TelephoneNumber\obj\Debug\TelephoneNumber.vbproj.GenerateResource.Cache
+c:\users\giannis\documents\visual studio 2015\Projects\TelephoneNumber\TelephoneNumber\obj\Debug\TelephoneNumber.exe
+c:\users\giannis\documents\visual studio 2015\Projects\TelephoneNumber\TelephoneNumber\obj\Debug\TelephoneNumber.xml
+c:\users\giannis\documents\visual studio 2015\Projects\TelephoneNumber\TelephoneNumber\obj\Debug\TelephoneNumber.pdb
